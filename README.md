@@ -11,6 +11,6 @@ Implementação da biblioteca [ESP32-BLE-Gamepad](https://github.com/lemmingDev/
 <img src="https://user-images.githubusercontent.com/62450459/190314391-fd502dd1-b795-49b0-aa44-4fd667ebde1c.jpg" width="100">
 </p>
 
-Bateria 18650 com controlador de carga com boost dc-dc 5v. [Video 1](https://user-images.githubusercontent.com/62450459/190314845-19e59ffa-05f0-42de-bbac-1862c000d31f.mp4)
+Bateria 18650 com controlador de carga com boost dc-dc 5v [Video 1](https://user-images.githubusercontent.com/62450459/190314845-19e59ffa-05f0-42de-bbac-1862c000d31f.mp4)
 
-Teste dos Hats e botões[Video 2 teste rápido](https://user-images.githubusercontent.com/62450459/190315788-94d38731-037f-40b1-bb17-fa1a59df83ee.mp4)
+Teste dos Hats e botões [Video 2 teste rápido](https://user-images.githubusercontent.com/62450459/190315788-94d38731-037f-40b1-bb17-fa1a59df83ee.mp4)
