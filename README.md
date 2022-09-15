@@ -3,7 +3,7 @@ Conversão de controle usb genérico para controle Bluetooth genérico :)
 
 12 botões, 2 analógicos (x, y) e 4 Direcionais (Hats) com diagonais.
 
-Implementação da biblioteca [ESP32-BLE-Gamepad_V0.3.4](https://github.com/lemmingDev/ESP32-BLE-Gamepad)
+Implementação da biblioteca [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad) na versão 0.3.4.
 <p float="left">
 <img src="https://user-images.githubusercontent.com/62450459/190314353-9b3013f1-f6bb-4a0f-a310-c134600ec28b.jpg" width="100">
 <img src="https://user-images.githubusercontent.com/62450459/190314372-d21a3d71-08a4-4c4e-82b1-15d69d7023b9.jpg" width="100">
@@ -11,7 +11,6 @@ Implementação da biblioteca [ESP32-BLE-Gamepad_V0.3.4](https://github.com/lemm
 <img src="https://user-images.githubusercontent.com/62450459/190314391-fd502dd1-b795-49b0-aa44-4fd667ebde1c.jpg" width="100">
 </p>
 
-Bateria 18650 com controlador de carga com boost dc-dc 5v
--[Video 1](https://user-images.githubusercontent.com/62450459/190314845-19e59ffa-05f0-42de-bbac-1862c000d31f.mp4)
+Bateria 18650 com controlador de carga com boost dc-dc 5v. [Video 1](https://user-images.githubusercontent.com/62450459/190314845-19e59ffa-05f0-42de-bbac-1862c000d31f.mp4)
 
--[Video 2 teste rápido](https://user-images.githubusercontent.com/62450459/190315788-94d38731-037f-40b1-bb17-fa1a59df83ee.mp4)
+Teste dos Hats e botões[Video 2 teste rápido](https://user-images.githubusercontent.com/62450459/190315788-94d38731-037f-40b1-bb17-fa1a59df83ee.mp4)
